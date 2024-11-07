@@ -1,0 +1,5 @@
+2024-08-11 21:57:19,420 : INFO : step5_model_training.py : Model initialized
+2024-08-11 21:57:24,561 : INFO : step5_model_training.py : Model trained on the train data.
+2024-08-11 21:57:24,608 : INFO : step5_model_training.py : Trained model evaluation done using validation data.
+2024-08-11 21:57:24,612 : INFO : step5_model_training.py : Saved evaluations in files.
+2024-08-11 21:57:24,876 : INFO : step5_model_training.py : Trained model saved as a joblib file.
