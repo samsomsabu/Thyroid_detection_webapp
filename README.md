@@ -1,12 +1,4 @@
 # Thyroid-Disease-Detection
-
-![](https://img.shields.io/github/last-commit/shivamshinde123/Thyroid_Disease_Detection_Internship)
-![](https://img.shields.io/github/languages/count/shivamshinde123/Thyroid_Disease_Detection_Internship)
-![](https://img.shields.io/github/languages/top/shivamshinde123/Thyroid_Disease_Detection_Internship)
-![](https://img.shields.io/github/repo-size/shivamshinde123/Thyroid_Disease_Detection_Internship)
-![](https://img.shields.io/github/directory-file-count/shivamshinde123/Thyroid_Disease_Detection_Internship)
-![](https://img.shields.io/github/license/shivamshinde123/Thyroid_Disease_Detection_Internship)
-
 # Problem Statement:
 Thyroid disease is a common cause of medical diagnosis and prediction, with an onset 
 that is difficult to forecast in medical research. The thyroid gland is one of our body's 
@@ -16,30 +8,11 @@ that releases thyroid hormones in regulating the rate of body's metabolism.
 The main goal is to predict the estimated risk on a patient's chance of obtaining thyroid 
 disease or not.
 
-# Project Demonstration
-
-Check out the project demo at https://youtu.be/87POVM-wgbE
-
-# Deployed app link
-
-Check out the deployed app at https://shivamshinde123-thyroid-disease-detection-inte-srcwebapp-5pzpa1.streamlit.app/
-
 # Data used
 
 Get the data from https://archive-beta.ics.uci.edu/dataset/102/thyroid+disease  
 Quinlan,Ross. (1987). Thyroid Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C5D010.
 
-# Project Flow
-
-![image](https://user-images.githubusercontent.com/54674972/220857687-5701fd6c-c39e-4802-802b-d2c509fd1b15.png)
-
-
-# Programming Languages Used
-<img src = "https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white">
-
-
-# Python Libraries and tools Used
-<img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=FFFFFF"> <img src = "https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy&logoColor=white"> <img src = "https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"> <img src="http://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=FFFFFF">  <img src = "https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white"> <img src = "https://img.shields.io/badge/-mlflow-0194E2?style=flat&logo=mlflow&logoColor=white"> <img src = "https://img.shields.io/badge/-Pydantic-000000?style=flat&logoColor=white">
 
 ## Run Locally
 
@@ -120,7 +93,3 @@ Make predictions using trained model
 ## 🚀 About Me
 I'm an aspiring data scientist and a data analyst.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://shivamdshinde.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamds92722/)
